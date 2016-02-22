@@ -14,6 +14,23 @@
 		D425F4F51C70D92500CFE964 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D425F4F31C70D92500CFE964 /* LaunchScreen.storyboard */; };
 		D425F5001C70D92500CFE964 /* BeeSafeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D425F4FF1C70D92500CFE964 /* BeeSafeTests.swift */; };
 		D425F50B1C70D92500CFE964 /* BeeSafeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D425F50A1C70D92500CFE964 /* BeeSafeUITests.swift */; };
+		D425F5191C70D9BA00CFE964 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D425F5181C70D9BA00CFE964 /* MapKit.framework */; };
+		D425F51F1C72815800CFE964 /* LogMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D425F51E1C72815800CFE964 /* LogMapViewController.swift */; };
+		D425F5211C738E5000CFE964 /* To Do List in Resources */ = {isa = PBXBuildFile; fileRef = D425F5201C738E5000CFE964 /* To Do List */; };
+		D425F5231C73A59800CFE964 /* SettingsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D425F5221C73A59800CFE964 /* SettingsTableViewController.swift */; };
+		D425F5251C73A7A600CFE964 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D425F5241C73A7A600CFE964 /* MainViewController.swift */; };
+		D425F52B1C73B2BF00CFE964 /* SettingsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D425F52A1C73B2BF00CFE964 /* SettingsCell.swift */; };
+		D425F52D1C75031800CFE964 /* HomeAddressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D425F52C1C75031800CFE964 /* HomeAddressViewController.swift */; };
+		D425F52F1C750E0600CFE964 /* ActivationTimeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D425F52E1C750E0600CFE964 /* ActivationTimeViewController.swift */; };
+		D425F5311C750E4200CFE964 /* RouteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D425F5301C750E4200CFE964 /* RouteViewController.swift */; };
+		D425F5351C767A8400CFE964 /* 58icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D425F5341C767A8400CFE964 /* 58icon.png */; };
+		D425F5371C767AC600CFE964 /* 80iconpng.png in Resources */ = {isa = PBXBuildFile; fileRef = D425F5361C767AC600CFE964 /* 80iconpng.png */; };
+		D425F5391C767ACB00CFE964 /* 120iconpng.png in Resources */ = {isa = PBXBuildFile; fileRef = D425F5381C767ACB00CFE964 /* 120iconpng.png */; };
+		D425F53F1C76828A00CFE964 /* CustomPointAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D425F53E1C76828A00CFE964 /* CustomPointAnnotation.swift */; };
+		D425F5411C76989A00CFE964 /* flowersmallgood.png in Resources */ = {isa = PBXBuildFile; fileRef = D425F5401C76989A00CFE964 /* flowersmallgood.png */; };
+		D425F5451C76996F00CFE964 /* beehivesmall.png in Resources */ = {isa = PBXBuildFile; fileRef = D425F5441C76996F00CFE964 /* beehivesmall.png */; };
+		D425F5471C790DF500CFE964 /* LogListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D425F5461C790DF500CFE964 /* LogListViewController.swift */; };
+		D44B65A11C794871000B07F3 /* flowersmallbad.png in Resources */ = {isa = PBXBuildFile; fileRef = D44B65A01C794871000B07F3 /* flowersmallbad.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +64,23 @@
 		D425F5061C70D92500CFE964 /* BeeSafeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BeeSafeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D425F50A1C70D92500CFE964 /* BeeSafeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeeSafeUITests.swift; sourceTree = "<group>"; };
 		D425F50C1C70D92500CFE964 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D425F5181C70D9BA00CFE964 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		D425F51E1C72815800CFE964 /* LogMapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogMapViewController.swift; sourceTree = "<group>"; };
+		D425F5201C738E5000CFE964 /* To Do List */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "To Do List"; sourceTree = "<group>"; };
+		D425F5221C73A59800CFE964 /* SettingsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsTableViewController.swift; sourceTree = "<group>"; };
+		D425F5241C73A7A600CFE964 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		D425F52A1C73B2BF00CFE964 /* SettingsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsCell.swift; sourceTree = "<group>"; };
+		D425F52C1C75031800CFE964 /* HomeAddressViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeAddressViewController.swift; sourceTree = "<group>"; };
+		D425F52E1C750E0600CFE964 /* ActivationTimeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActivationTimeViewController.swift; sourceTree = "<group>"; };
+		D425F5301C750E4200CFE964 /* RouteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouteViewController.swift; sourceTree = "<group>"; };
+		D425F5341C767A8400CFE964 /* 58icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 58icon.png; sourceTree = "<group>"; };
+		D425F5361C767AC600CFE964 /* 80iconpng.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 80iconpng.png; sourceTree = "<group>"; };
+		D425F5381C767ACB00CFE964 /* 120iconpng.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120iconpng.png; sourceTree = "<group>"; };
+		D425F53E1C76828A00CFE964 /* CustomPointAnnotation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomPointAnnotation.swift; sourceTree = "<group>"; };
+		D425F5401C76989A00CFE964 /* flowersmallgood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flowersmallgood.png; sourceTree = "<group>"; };
+		D425F5441C76996F00CFE964 /* beehivesmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beehivesmall.png; sourceTree = "<group>"; };
+		D425F5461C790DF500CFE964 /* LogListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogListViewController.swift; sourceTree = "<group>"; };
+		D44B65A01C794871000B07F3 /* flowersmallbad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flowersmallbad.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +88,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D425F5191C70D9BA00CFE964 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -77,10 +112,17 @@
 		D425F4DE1C70D92500CFE964 = {
 			isa = PBXGroup;
 			children = (
+				D425F5181C70D9BA00CFE964 /* MapKit.framework */,
 				D425F4E91C70D92500CFE964 /* BeeSafe */,
 				D425F4FE1C70D92500CFE964 /* BeeSafeTests */,
 				D425F5091C70D92500CFE964 /* BeeSafeUITests */,
 				D425F4E81C70D92500CFE964 /* Products */,
+				D425F5341C767A8400CFE964 /* 58icon.png */,
+				D425F5361C767AC600CFE964 /* 80iconpng.png */,
+				D425F5381C767ACB00CFE964 /* 120iconpng.png */,
+				D425F5401C76989A00CFE964 /* flowersmallgood.png */,
+				D44B65A01C794871000B07F3 /* flowersmallbad.png */,
+				D425F5441C76996F00CFE964 /* beehivesmall.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -103,6 +145,16 @@
 				D425F4F11C70D92500CFE964 /* Assets.xcassets */,
 				D425F4F31C70D92500CFE964 /* LaunchScreen.storyboard */,
 				D425F4F61C70D92500CFE964 /* Info.plist */,
+				D425F51E1C72815800CFE964 /* LogMapViewController.swift */,
+				D425F5461C790DF500CFE964 /* LogListViewController.swift */,
+				D425F5201C738E5000CFE964 /* To Do List */,
+				D425F5241C73A7A600CFE964 /* MainViewController.swift */,
+				D425F52A1C73B2BF00CFE964 /* SettingsCell.swift */,
+				D425F5221C73A59800CFE964 /* SettingsTableViewController.swift */,
+				D425F52C1C75031800CFE964 /* HomeAddressViewController.swift */,
+				D425F52E1C750E0600CFE964 /* ActivationTimeViewController.swift */,
+				D425F5301C750E4200CFE964 /* RouteViewController.swift */,
+				D425F53E1C76828A00CFE964 /* CustomPointAnnotation.swift */,
 			);
 			path = BeeSafe;
 			sourceTree = "<group>";
@@ -193,6 +245,18 @@
 				TargetAttributes = {
 					D425F4E61C70D92500CFE964 = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = WC8GK6LE4R;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+							com.apple.Push = {
+								enabled = 0;
+							};
+						};
 					};
 					D425F4FA1C70D92500CFE964 = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -229,9 +293,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D425F5451C76996F00CFE964 /* beehivesmall.png in Resources */,
+				D425F5391C767ACB00CFE964 /* 120iconpng.png in Resources */,
+				D425F5211C738E5000CFE964 /* To Do List in Resources */,
 				D425F4F51C70D92500CFE964 /* LaunchScreen.storyboard in Resources */,
+				D425F5351C767A8400CFE964 /* 58icon.png in Resources */,
 				D425F4F21C70D92500CFE964 /* Assets.xcassets in Resources */,
+				D425F5371C767AC600CFE964 /* 80iconpng.png in Resources */,
 				D425F4F01C70D92500CFE964 /* Main.storyboard in Resources */,
+				D44B65A11C794871000B07F3 /* flowersmallbad.png in Resources */,
+				D425F5411C76989A00CFE964 /* flowersmallgood.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +327,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D425F5231C73A59800CFE964 /* SettingsTableViewController.swift in Sources */,
+				D425F5471C790DF500CFE964 /* LogListViewController.swift in Sources */,
+				D425F52F1C750E0600CFE964 /* ActivationTimeViewController.swift in Sources */,
+				D425F51F1C72815800CFE964 /* LogMapViewController.swift in Sources */,
+				D425F52B1C73B2BF00CFE964 /* SettingsCell.swift in Sources */,
+				D425F52D1C75031800CFE964 /* HomeAddressViewController.swift in Sources */,
+				D425F5311C750E4200CFE964 /* RouteViewController.swift in Sources */,
+				D425F53F1C76828A00CFE964 /* CustomPointAnnotation.swift in Sources */,
 				D425F4ED1C70D92500CFE964 /* ViewController.swift in Sources */,
 				D425F4EB1C70D92500CFE964 /* AppDelegate.swift in Sources */,
+				D425F5251C73A7A600CFE964 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -399,10 +479,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = BeeSafe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.tufts.cs.BeeSafe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -410,10 +494,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = BeeSafe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.tufts.cs.BeeSafe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -484,6 +572,7 @@
 				D425F5111C70D92500CFE964 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D425F5121C70D92500CFE964 /* Build configuration list for PBXNativeTarget "BeeSafeTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +581,7 @@
 				D425F5141C70D92500CFE964 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D425F5151C70D92500CFE964 /* Build configuration list for PBXNativeTarget "BeeSafeUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +590,7 @@
 				D425F5171C70D92500CFE964 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
